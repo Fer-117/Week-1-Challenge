@@ -1,12 +1,13 @@
 # Code Refactor Starter Code - Week-1-Challenge
 ## HTML file
+The nav link for the first section was not working because it was missing and id. 
 The code needed semantic tags in the html file so I changed all of the div tags for better tags such as: 
 * Header
 * main
 * section
 * aside
 * footer
-The nav link for the first section was not working because it was missing and id. 
+
 
 ## CSS file
 The code in the CSS file was repetitive at some parts. The main section with the 3 subsections could be summarized with
