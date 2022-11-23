@@ -15,5 +15,5 @@ one selector instead of 3 separate classes. I also changed the image of the digi
 - [ x ] find semantic HTML elements
 - [ x ] elements follow a logical structure independent of styling and positioning
 - [ x ] find accessible alt attributes
-- [ x ] heading attributes fall in sequential order
+- [x] heading attributes fall in sequential order
 - [ x ] the title element has descriptive title
