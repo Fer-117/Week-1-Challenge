@@ -12,8 +12,8 @@ The nav link for the first section was not working because it was missing and id
 The code in the CSS file was repetitive at some parts. The main section with the 3 subsections could be summarized with
 one selector instead of 3 separate classes. I also changed the image of the digital marketing meeting to appear in the HTML file instead of the CSS file so I could add the alt attribute. 
 
--[x] find semantic HTML elements
--[x] elements follow a logical structure independent of styling and positioning
--[x] find accessible alt attributes
--[x] heading attributes fall in sequential order
--[x] the title element has descriptive title
+-[] find semantic HTML elements
+-[] elements follow a logical structure independent of styling and positioning
+-[] find accessible alt attributes
+-[] heading attributes fall in sequential order
+-[] the title element has descriptive title
